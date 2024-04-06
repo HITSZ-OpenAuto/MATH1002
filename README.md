@@ -8,6 +8,10 @@
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95-30%25-wheat)
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-50%25-wheat)
 
+![Static Badge](https://img.shields.io/badge/总学时-64-gold)
+![Static Badge](https://img.shields.io/badge/讲课学时-64-wheat)
+![Static Badge](https://img.shields.io/badge/另有辅导课学时-（12）-wheat)
+
 ## 教材
 - 大学数学. 线性代数与空间解析几何 / 郑宝东，郭潇，王忠英编. --5版. --北京：高等教育出版社，2021.11
 
