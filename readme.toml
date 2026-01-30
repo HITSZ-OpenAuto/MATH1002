@@ -1,0 +1,142 @@
+course_name = "代数与几何"
+repo_type = "normal"
+course_code = "MATH1002"
+
+# 授课教师 (Lecturers)
+[[lecturers]]
+name = "李文彬"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：幽默风趣。上课以板书为主，基本不用PPT。
+              上课无考勤，不点名。
+              听课建议：若是已经提前学习了课程内容，可以不听课，自己学习其它。
+  """
+  author = { name = "", link = "", date = "" }
+[[lecturers]]
+name = "梁慧"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：上课以板书为主，基本是复述一遍书上内容，有时稍有补充。除解析几何部分基本不用PPT。
+              上课有时考勤/点名。
+              听课建议：若是已经提前学习了课程内容，可以不听课，自己学习其它。
+  """
+  author = { name = "", link = "", date = "" }
+[[lecturers]]
+name = "史峰"
+
+  [[lecturers.reviews]]
+  content = """
+  授课风格：偏学术性，拓展内容较为丰富，对入门不友好（但是平时自己研究些东西之后会发现他讲过）。
+              上课无考勤。
+              听课建议：建议自力更生。
+  """
+  author = { name = "", link = "", date = "" }
+[[lecturers]]
+name = "郑宝东"
+
+  [[lecturers.reviews]]
+  content = """Comments wanted here!"""
+  author = { name = "", link = "", date = "" }
+[[lecturers]]
+name = "曾吉文"
+
+  [[lecturers.reviews]]
+  content = """
+  （原为外聘教师，现已退休）
+              授课风格：PPT + 板书。听课效果方面，不怎么好抓住重点，很多时候上完一节课，还是不知道关键的某些解题过程是怎么写的。
+              上课无考勤。
+              听课建议：建议自力更生。
+  """
+  author = { name = "", link = "", date = "" }
+
+# 教材与参考书(不需要author)
+[[textbooks]]
+title = "大学数学. 线性代数与空间解析几何"
+book_author = "郑宝东 / 郭潇 / 王忠英"
+publisher = "高等教育出版社"
+edition = "第 5 版"
+type = "textbook"
+
+[[textbooks]]
+title = "线性代数及其应用 (Linear Algebra and Its Applications)"
+book_author = "David C. Lay"
+publisher = "机械工业出版社"
+edition = ""
+type = "reference"
+
+[[textbooks]]
+title = "Introduction to Linear Algebra"
+book_author = "Gilbert Strang"
+publisher = "Wellesley-Cambridge Press"
+edition = ""
+type = "reference"
+
+[[textbooks]]
+title = "线性代数"
+book_author = "Gilbert Strang (清华大学出版社版)"
+publisher = "清华大学出版社"
+edition = ""
+type = "reference"
+
+[[textbooks]]
+title = "线性代数与空间解析几何 疑难解答 / 习题指导"
+book_author = ""
+publisher = ""
+edition = ""
+type = "reference"
+
+# 网络资源（电子书、网课等）
+[[online_resources]]
+title = "MIT 18.06 Linear Algebra (Gilbert Strang)"
+url = "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/"
+description = "全球广受好评的线代神课，B站搜索「MIT 线性代数」亦可观看。"
+
+[[online_resources]]
+title = "MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning"
+url = "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/"
+description = "偏向 EECS 方向学生的线代课程，适合学完 18.06 后进阶。"
+
+[[online_resources]]
+title = "哈尔滨工业大学 线性代数 MOOC"
+url = "https://www.icourse163.org/"
+description = "中国大学 MOOC 平台"
+
+[[exam]]
+content = """
+考试整体难度适中（比高数简单一些），打分较友好。期中考平均分在 23 左右，期末考平均分在 40 左右，不捞人，挂科比例大约 1% 到 2%。
+
+从 17 年至 20 年，考试风格略微有变，越来越注重对概念的理解，计算量不断增大，但证明题的思维难度在下降（特别是 20 届，期末考试已经删除证明题）。
+
+23 年秋的代数与几何考试与 22 年的考试风格接近，考试回归计算，填空题和计算题主要考察各章所要求的各类计算，而选择题会出现概念辨析题，主要是课本上有的概念，思维量明显小于高数考试，主要突出一个计算能力，且不要求证明题。
+
+24 年秋的在和本部联考后加入了多选题，难度略有上升，但是仍然没有要求证明题，主要考察还是各种概念的计算。
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703/", date = "2025-01-01" }
+
+[[advice]]
+content = """
+作业的话一般交了就是最低分 18，写的认真、错误少就是 20（满分）。
+
+学习时，要先将公式概念记熟，再将经典题型的思路理清，要不断锻炼自己的计算能力（思维量不大、基本在考计算）。
+
+有时间想进一步提升，可以做参考书《线性代数与空间解析几何 疑难解答》《线性代数与空间解析几何 习题指导》上的题目。没时间的话，至少将作业题弄清楚。
+"""
+author = { name = "", link = "", date = "" }
+
+# 兜底板块
+[[misc]]
+topic = "面向工程与实用性、长远发展的建议"
+content = """
+工大的教材过于枯燥和公式化，很多变换是拿来干嘛的都没有讲清楚，如果只是**应付考试**的话，如前述所说，看工大的 MOOC 并硬背教材公式即可。
+但如果是想长远发展，比如以后想学习图形学、游戏开发等这些应用线代知识较多的工程应用场景，那么对数学知识原理的理解就是很有必要的。
+
+**教材推荐：**
+1. David C.Lay [线性代数及其应用]：讲解顺序非常自然，易于理解。例如，1-2 章，从线性方程组领起，再将其转化成向量方程和矩阵方程的形式，很好地将方程组解的性质、线性组合的性质和矩阵的性质结合在一起，后又通过可逆阵将它们联系起来；较早引入线性变换，让读者提前接受将矩阵视作变换的动态观点。
+2. Gilbert Strang《Introduction to Linear Algebra》：清华近几年开始给本科生使用的教材，原理讲述部分很多都比国内教材要好。
+
+**MOOC 推荐：**
+Strang 老爷子的线代神课 (MIT 18.06)，以及进阶课程 (MIT 18.065)。
+"""
+author = { name = "lmh12138", link = "https://github.com/lmh12138", date = "2022-07-23" }
