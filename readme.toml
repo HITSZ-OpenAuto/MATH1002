@@ -115,4 +115,5 @@ content = """
 """
 author = [
   { name = "lmh12138", link = "https://github.com/lmh12138", date = "2022-07" },
-  { name = "Oliver Wu", link = "https://github.com/oliverwu515", date = "2024-10" }]
+  { name = "Oliver Wu", link = "https://github.com/oliverwu515", date = "2024-10" },
+]
