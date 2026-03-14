@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 李文彬
   <!-- TOML-ITEM: id="review-李文彬-1" -->
   - 授课风格：幽默风趣。上课以板书为主，基本不用PPT。
