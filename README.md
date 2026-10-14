@@ -1,11 +1,5 @@
 # MATH1002 - 代数与几何
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期中考试30%](https://img.shields.io/badge/期中考试-30%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
 
 本课程为考试课，学分 4.0。
 总学时 64，讲课学时 64。
